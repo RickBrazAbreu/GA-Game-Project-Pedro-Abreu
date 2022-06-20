@@ -1,0 +1,8 @@
+MAKE A PLAYER
+//////       create it body  ************
+ /////       MOVE ***********
+ /////       JUMP  *************
+
+MAKE PLATFORMS TO JUMP *****************
+
+MAKE BACKGROUND MOVE

@@ -1,0 +1,9 @@
+/* aki retirando as margens do body  */
+body{
+    margin: 0;
+}
+
+canvas{
+    /* margin-left: 5%; */
+    background-color: rgb(228, 227, 172);
+}
